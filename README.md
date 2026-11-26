@@ -6,11 +6,9 @@
 
 This is my version of the 2-part project course (17 modules and 12 projects), which is to eventually build "Hack", a complete 16-bit computer system, one layer at a time.
 
----
-
 ## Why I'm building this
 
-Way back I took a course called "Introduction to Computer Science" which introduced a version of Little man Computer (LMC), however, it neither delved into the spesifics nor did it show the whole picture in relation to other parts of the computer. Later on I stumbled upon this course, but the old Java software was prone to crashes when working on logic gates. Happily,  there's now a browser-based IDE to do the simulation.  So, now I'm finally filling in the missing threads.
+Way back I took a course called "Introduction to Computer Science" which introduced a version of Little man Computer (LMC), however, it neither delved into the spesifics nor did it show much of the whole picture in relation to other parts of the computer. Later, I stumbled upon this course, but the old Java software was prone to crashes when working on logic gates. Happily, there's now a browser-based IDE to do the simulation. So, now I'm finally filling in the missing threads.
 
 ## What I learned
 
