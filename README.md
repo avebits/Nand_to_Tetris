@@ -10,7 +10,7 @@ This is my version of the 2-part project course (17 modules and 12 projects), wh
 
 Way back I took a course called "Introduction to Computer Science" which introduced a version of Little man Computer (LMC), however, it neither delved into the spesifics nor did it show much of the whole picture in relation to other parts of the computer. Later, I stumbled upon this course, but the old Java software was prone to crashes when working on logic gates. Happily, there's now a browser-based IDE to do the simulation. So, now I'm finally filling in the missing threads.
 
-## What I learned
+## What I have learned do far
 
 - How simple logic gates work and to combine them to perform something else.
 
@@ -42,12 +42,11 @@ Part 2 - https://www.coursera.org/learn/nand2tetris2
 
 ## Tools & setup
 
-Each project lives in `projects/<>/`.  logic gates Chips are written in HDL and tested with the online Nand2Tetris Hardware Simulator; later projects use the supplied test scripts (`.tst`) and compare against expected output (`.cmp`).
+Each project lives in `projects/<>/`.  logic gates chips are written in HDL and tested with the online Nand2Tetris Hardware Simulator; later projects use the supplied test scripts (`.tst`) and compare against expected output (`.cmp`).
 
 Notepad++, VScodium, online IDE
 
 <!--Lang for software projects further in: **Python** or C/etc. -->
-
 
 ## Highlights
 
